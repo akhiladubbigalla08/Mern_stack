@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        th,td{
+            padding: 15px;
+        }
+        table,th,td{
+            border: solid;
+        }
+    </style>
+</head>
+<body>
+    <h1>table page is this</h1>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>rollno</th>
+            <th>dept</th>
+        </tr>
+        <tr>
+            <td>deepu</td>
+            <td>34</td>
+            <td>cse</td>
+        </tr>
+        <tr>
+            <td>deeku</td>
+            <td>33</td>
+            <td>cse</td>
+        </tr>
+    </table>
+</body>
+</html>
